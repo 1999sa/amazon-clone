@@ -1,1 +1,1 @@
-# amazon-clone
+# amazon website clone using css
